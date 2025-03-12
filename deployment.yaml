@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: calculator
-          image: parsentev/job4j_devops:v.1
+          image: shaman2k/job4j_devops:v.1
           ports:
             - containerPort: 8080
